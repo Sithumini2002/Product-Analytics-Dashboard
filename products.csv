@@ -1,0 +1,6 @@
+Product_ID,Product,Category,Brand,Description,Cost_Price,Sale_Price,Supplier_ID,Image_URL
+1,Laptop Pro 15,Electronics,TechX,High-performance laptop,950.0,1200.0,101,https://example.com/laptop.jpg
+2,Smartwatch Fit,Wearables,LifeGear,Waterproof smartwatch,80.0,150.0,102,https://example.com/watch.jpg
+3,Noise Cancelling Headphones,Audio,SoundMax,Bluetooth headphones,100.0,200.0,103,https://example.com/headphones.jpg
+4,Gaming Mouse,Accessories,TechX,Ergonomic RGB mouse,25.0,55.0,101,https://example.com/mouse.jpg
+5,4K Monitor,Electronics,ViewTop,27-inch ultra HD monitor,180.0,300.0,104,https://example.com/monitor.jpg
